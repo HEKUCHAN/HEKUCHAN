@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=HEKUCHAN&show_icons=true&theme=dark)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api/top-langs/?username=HEKUCHAN&count_private=true)
