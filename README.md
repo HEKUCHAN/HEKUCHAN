@@ -6,8 +6,6 @@
 [ポートフォリオのリポジトリー](https://github.com/HEKUCHAN/PortFolio)
 
 ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=HEKUCHAN&repo=Portfolio&theme=dark)
-
-
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=HEKUCHAN&show_icons=true&theme=dark&count_private=true)
 
 
