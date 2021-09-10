@@ -5,7 +5,7 @@
 
 [ポートフォリオのリポジトリー](https://github.com/HEKUCHAN/PortFolio)
 
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=HEKUCHAN&repo=Portfolio&theme=dracula)
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=HEKUCHAN&repo=Portfolio&theme=dracula&layout=compact)
 
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=HEKUCHAN&show_icons=true&theme=dracula&count_private=true)
