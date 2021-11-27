@@ -8,5 +8,7 @@
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=HEKUCHAN&repo=MyPortfolio&theme=dracula&layout=compact)](https://github.com/HEKUCHAN/MyPortFolio)
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=HEKUCHAN&layout=compact&theme=dracula)
+
+
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=HEKUCHAN&show_icons=true&theme=dracula&count_private=true)
 
