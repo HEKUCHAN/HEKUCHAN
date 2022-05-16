@@ -12,7 +12,7 @@
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/HEKUCHANDAO?label=Reddit&logo=reddit&style=flat" />
   </a>
   <a href="https://stackoverflow.com/users/43795/HEKUCHAN">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
+    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/43795?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
   <a href="http://qiita.com/hekuta">
     <img height="20" src="https://qiita-badge.apiapi.app/s/hekuta/posts.svg" />
