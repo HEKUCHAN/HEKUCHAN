@@ -22,3 +22,7 @@
 （もしくはBIツール）
 
 基本的には[IwataGumi](https://github.com/IwataGumi)で活動してます。
+
+一年ほど、doot株式会社でインターン行っていました。
+すごく　勉強になったので感謝しています！
+主にRails、Nuxt.jsで開発しました。
