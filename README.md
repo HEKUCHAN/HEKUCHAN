@@ -28,4 +28,5 @@
 主にRails、Nuxt.jsで開発しました。
 
 ぼちぼちPython入門のサイト書いてます
+
 [VTA-Python-Book](https://docs.hekuta.net/)
