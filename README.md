@@ -26,3 +26,6 @@
 一年ほど、doot株式会社でインターン行っていました。
 すごく勉強になったので感謝しています！
 主にRails、Nuxt.jsで開発しました。
+
+ぼちぼちPython入門のサイト書いてます
+[VTA-Python-Book](https://docs.hekuta.net/)
