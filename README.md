@@ -14,6 +14,7 @@
   <//qiita.com/hekuta">
     <img height="20" src="https://qiita-badge.apiapi.app/s/hekuta/contributions.svg" />
   </a>
+  [![Articles](https://badgen.org/img/zenn/hekuchandao/articles?style=plastic)](https://zenn.dev/hekuchandao)
 </p>
 
 来年は大学生になる予定で、最後の高校生活を謳歌しています。
