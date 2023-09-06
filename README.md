@@ -33,3 +33,5 @@
 ぼちぼちPython入門のサイト書いてます
 
 [VTA-Python-Book](https://docs.hekuta.net/)
+
+![HEKUCHAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEKUCHAN&show_icons=true&theme=transparent)
