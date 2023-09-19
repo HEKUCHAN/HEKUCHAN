@@ -17,13 +17,13 @@
 <!-- Qiita -->
 <p align="left">
   <a href="https://qiita.com/koki_develop">
-    <img src="https://badgen.org/img/qiita/koki_develop/contributions?style=for-the-badge" alt="Contributions" />
+    <img src="https://badgen.org/img/qiita/hekuchandao/contributions?style=for-the-badge" alt="Contributions" />
   </a>
   <a href="https://qiita.com/koki_develop">
-    <img src="https://badgen.org/img/qiita/koki_develop/followers?style=for-the-badge" alt="Followers" />
+    <img src="https://badgen.org/img/qiita/hekuchandao/followers?style=for-the-badge" alt="Followers" />
   </a>
   <a href="https://qiita.com/koki_develop">
-    <img src="https://badgen.org/img/qiita/koki_develop/articles?style=for-the-badge" alt="Articles" />
+    <img src="https://badgen.org/img/qiita/hekuchandao/articles?style=for-the-badge" alt="Articles" />
   </a>
 </p>
 
