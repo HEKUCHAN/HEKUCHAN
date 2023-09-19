@@ -16,7 +16,18 @@
 </p>
 <!-- Tech blog -->
 <p align="left">
-  
+  <a href="https://zenn.dev/hekuchandao">
+    <img src="https://badgen.org/img/zenn/hekuchandao/likes?style=for-the-badge" alt="Likes" />
+  </a>
+  <a href="https://zenn.dev/hekuchandao">
+    <img src="https://badgen.org/img/zenn/hekuchandao/followers?style=for-the-badge" alt="Followers" />
+  </a>
+  <a href="https://zenn.dev/hekuchandao">
+    <img src="https://badgen.org/img/zenn/hekuchandao/articles?style=for-the-badge" alt="Articles" />
+  </a>
+  <a href="https://zenn.dev/hekuchandao?tab=scraps">
+    <img src="https://badgen.org/img/zenn/hekuchandao/scraps?style=for-the-badge" alt="Scraps" />
+  </a>
 </p>
 
 来年は大学生になる予定で、最後の高校生活を謳歌しています。
