@@ -13,14 +13,10 @@
   <a href="https://qiita.com/hekuta">
     <img src="https://img.shields.io/badge/HEKUTA-55C500?style=for-the-badge&logo=qiita&logoColor=white" />
   </a>
-  <a href="http://qiita.com/hekuta">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/hekuta/posts.svg" />
-  </a>
-  <//qiita.com/hekuta">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/hekuta/contributions.svg" />
-  </a>
+
+  <!-- Zenn -->
   <a href="https://zenn.dev/hekuchandao">
-    <img height="20" src="https://badgen.org/img/zenn/hekuchandao/articles?style=plastic">
+    <img src="https://badgen.org/img/zenn/hekuchandao/articles?style=for-the-badge">
   </a>
 </p>
 
