@@ -54,8 +54,9 @@
 すごく勉強になったので感謝しています！
 主にRails、Nuxt.jsで開発しました。
 
-ぼちぼちPython入門のサイト書いてます
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEKUCHAN&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=HEKUCHAN" />
+</p>
 
-[VTA-Python-Book](https://docs.hekuta.net/)
-
-![HEKUCHAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEKUCHAN&show_icons=true&theme=transparent)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HEKUCHAN&no-frame=true)](https://github.com/HEKUCHAN/)
