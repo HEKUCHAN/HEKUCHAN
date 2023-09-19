@@ -8,9 +8,7 @@
   <a href="http://twitter.com/Heitor_Hirose">
     <img src="https://img.shields.io/badge/Heitor%20Hirose-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="http://twitter.com/Heitor_Hirose">
-    <img height="20" src="https://img.shields.io/twitter/follow/Heitor_Hirose?label=Twitter&logo=twitter&style=flat" />
-  </a>
+
   <!-- Qiita -->
   <a href="http://qiita.com/hekuta">
     <img height="20" src="https://qiita-badge.apiapi.app/s/hekuta/posts.svg" />
