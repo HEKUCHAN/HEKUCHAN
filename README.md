@@ -2,7 +2,7 @@
 
 <p align="left">
   <!-- Profile view counter -->
-  <img src="https://komarev.com/ghpvc/?username=hekuchan&label=Profile%20views&color=0e75b6&style=flat" alt="hekuchan" />
+  <img src="https://komarev.com/ghpvc/?username=hekuchan&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="hekuchan" />
   <!-- Twitter Badge -->
   <a href="http://twitter.com/Heitor_Hirose">
     <img height="20" src="https://img.shields.io/twitter/follow/Heitor_Hirose?label=Twitter&logo=twitter&style=flat" />
