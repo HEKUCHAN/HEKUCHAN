@@ -10,6 +10,9 @@
   </a>
 
   <!-- Qiita -->
+  <a href="https://qiita.com/hekuta">
+    <img src="https://img.shields.io/badge/HEKUTA-55C500?style=for-the-badge&logo=qiita&logoColor=white" />
+  </a>
   <a href="http://qiita.com/hekuta">
     <img height="20" src="https://qiita-badge.apiapi.app/s/hekuta/posts.svg" />
   </a>
