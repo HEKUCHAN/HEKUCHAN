@@ -14,7 +14,20 @@
     <img src="https://img.shields.io/badge/HOMEPAGE-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
 </p>
-<!-- Tech blog -->
+<!-- Qiita -->
+<p align="left">
+  <a href="https://qiita.com/koki_develop">
+    <img src="https://badgen.org/img/qiita/koki_develop/contributions?style=for-the-badge" alt="Contributions" />
+  </a>
+  <a href="https://qiita.com/koki_develop">
+    <img src="https://badgen.org/img/qiita/koki_develop/followers?style=for-the-badge" alt="Followers" />
+  </a>
+  <a href="https://qiita.com/koki_develop">
+    <img src="https://badgen.org/img/qiita/koki_develop/articles?style=for-the-badge" alt="Articles" />
+  </a>
+</p>
+
+<!-- Zenn -->
 <p align="left">
   <a href="https://zenn.dev/hekuchandao">
     <img src="https://badgen.org/img/zenn/hekuchandao/likes?style=for-the-badge" alt="Likes" />
