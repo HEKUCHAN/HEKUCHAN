@@ -9,15 +9,14 @@
     <img src="https://img.shields.io/badge/Heitor%20Hirose-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
-  <!-- Qiita -->
-  <a href="https://qiita.com/hekuta">
-    <img src="https://img.shields.io/badge/HEKUTA-55C500?style=for-the-badge&logo=qiita&logoColor=white" />
+  <!-- My Homepage -->
+  <a href="https://hekuta.net/">
+    <img src="https://img.shields.io/badge/HOMEPAGE-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
-
-  <!-- Zenn -->
-  <a href="https://zenn.dev/hekuchandao">
-    <img src="https://badgen.org/img/zenn/hekuchandao/articles?style=for-the-badge">
-  </a>
+</p>
+<!-- Tech blog -->
+<p align="left">
+  
 </p>
 
 来年は大学生になる予定で、最後の高校生活を謳歌しています。
