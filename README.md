@@ -60,3 +60,6 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HEKUCHAN&no-frame=true)](https://github.com/HEKUCHAN/)
+
+![kusa evolution](https://kusa-evolution.onrender.com/evolution?username=HEKUCHAN)
+[毎日の草で進化する猿人 - SatooRu65536](https://github.com/SatooRu65536/kusa-evolution)
