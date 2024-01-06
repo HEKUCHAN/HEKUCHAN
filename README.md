@@ -43,24 +43,3 @@
     <img src="https://badgen.org/img/zenn/hekuchandao/scraps?style=for-the-badge" alt="Scraps" />
   </a>
 </p>
-
-来年は大学生になる予定で、最後の高校生活を謳歌しています。
-大のPython好きで、Rust, C++も勉強中です。
-主に、バックエンド、フロントエンドをやっていますが、データパイプラインの仕事に興味があります。
-（もしくはBIツール）
-
-基本的には[IwataGumi](https://github.com/IwataGumi)で活動してます。
-
-一年ほど、doot株式会社でインターン行っていました。
-すごく勉強になったので感謝しています！
-主にRails、Nuxt.jsで開発しました。
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEKUCHAN&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=HEKUCHAN" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=HEKUCHAN&no-frame=true)](https://github.com/HEKUCHAN/)
-
-![kusa evolution](https://kusa-evolution.onrender.com/evolution?username=HEKUCHAN&darkmode=true&bg=#111111)
-[毎日の草で進化する猿人 - SatooRu65536](https://github.com/SatooRu65536/kusa-evolution)
