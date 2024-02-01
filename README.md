@@ -18,13 +18,13 @@
 
 <!-- Qiita -->
 <p align="left">
-  <a href="https://qiita.com/koki_develop">
+  <a href="https://qiita.com/hekuta">
     <img src="https://badgen.org/img/qiita/hekuta/contributions?style=for-the-badge" alt="Contributions" />
   </a>
-  <a href="https://qiita.com/koki_develop">
+  <a href="https://qiita.com/hekuta">
     <img src="https://badgen.org/img/qiita/hekuta/followers?style=for-the-badge" alt="Followers" />
   </a>
-  <a href="https://qiita.com/koki_develop">
+  <a href="https://qiita.com/hekuta">
     <img src="https://badgen.org/img/qiita/hekuta/articles?style=for-the-badge" alt="Articles" />
   </a>
 </p>
