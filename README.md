@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm HEKUCHAN</h1>
 
+東京工科大学の学生です。
+主にAideaLabにて勤務しています。
+
 
 <p align="left">
   <!-- Profile view counter -->
